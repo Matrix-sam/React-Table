@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts and How to use
+### git clone https://github.com/Matrix-sam/React-Table.git
+### cd React-Table
+### npm install
+### npm start
+### open http://localhost:3000
+
+
 ## Available Scripts
 
 In the project directory, you can run:
